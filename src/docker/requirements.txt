@@ -7,5 +7,5 @@ tensorflow==2.7.1
 keras==2.7.0
 scikit-learn==1.0.2
 scipy==1.8.0
-torch==1.11.0
+torch==2.2.0
 lapkt==0.1.1
